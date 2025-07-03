@@ -4,7 +4,7 @@ Final Project -  Google Play Store app performance
 
 Team 4 
 Yunjiu Li (yl5890)
-Laurel Stewart
+Laurel Stewart (lks2143)
 
 Structure:
 Data Folder:
